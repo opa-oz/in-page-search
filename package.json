@@ -1,0 +1,20 @@
+{
+  "name": "pagesearch",
+  "version": "1.0.0",
+  "description": "Fast search through the page",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "fast",
+    "search",
+    "page",
+    "html5"
+  ],
+  "author": "opa_oz",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  }
+}
